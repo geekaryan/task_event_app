@@ -65,3 +65,7 @@ One of the challenges faced during the development of this application was integ
 ### Sorting Events
 
 Another challenge was ensuring that users could see the closest events first. To address this, I implemented a sorting mechanism that orders events based on their timestamp. This way, users can easily find and attend the most imminent events.
+
+## Video
+
+For a detailed walkthrough of the application, you can watch the video [here](https://drive.google.com/file/d/1tYrI0N2r7lLJcKLBszSxibYFoHN0tUiV/view?usp=sharing).
